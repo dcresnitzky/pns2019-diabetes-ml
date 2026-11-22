@@ -1,0 +1,14 @@
+# Dados do IBGE (baixados por scripts/baixar_dados.py) e derivados
+data/raw/
+data/extracted/
+data/processed/
+
+# Ambiente
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Fora do repositório público
+artigo/
+apresentacao/
+figures/
